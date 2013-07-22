@@ -7,9 +7,9 @@ to do push/pull in a web app with Slim.
 Dependencies
 ------------
 
-	* Ratchet
-	* ZeroMQ (see below)
-	* Slim
+  * Ratchet
+  * ZeroMQ (see below)
+  * Slim
 
 Usage
 ----- 
@@ -41,24 +41,24 @@ Some useful links
 
 Ratchet
 
-	* http://socketo.me/
-	* http://socketo.me/docs/push (push/pull example)
+  * http://socketo.me/
+  * http://socketo.me/docs/push (push/pull example)
 
 ZeroMQ
 
-	* http://www.zeromq.org/area:download
-	* http://www.zeromq.org/bindings:php
-	* http://zguide.zeromq.org/page:all
-	* http://stackoverflow.com/questions/6742773/zeromq-php-extension-for-windows
+  * http://www.zeromq.org/area:download
+  * http://www.zeromq.org/bindings:php
+  * http://zguide.zeromq.org/page:all
+  * http://stackoverflow.com/questions/6742773/zeromq-php-extension-for-windows
  
 JS libraries
 
-	* https://github.com/cujojs/when
-	* http://autobahn.ws/
+  * https://github.com/cujojs/when
+  * http://autobahn.ws/
 
 WAMP  (Web Socket Messaging Protocal Specification)
 
-	* http://wamp.ws/
+  * http://wamp.ws/
 
 Get ZeroMQ Version in PHP
 --------------------------
